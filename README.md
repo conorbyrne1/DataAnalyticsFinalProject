@@ -1,4 +1,4 @@
-Conor Byrne & Patrick Hagelston
-Final Project in DAT-210 - Data Analytics
+# Final Project in DAT-210 - Data Analytics
+## Conor Byrne & Patrick Hagelston
 
-The code was made in a shared google colab in python
+Final project was based on the 1994 Adult income dataset. The code was made in a shared google colab in python.
